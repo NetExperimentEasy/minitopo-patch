@@ -8,7 +8,7 @@
 
 2. 如何自己设计试验
 
-所有试验相关文件均在这个目录下
+所有试验相关文件均在这个experiment目录下
 ![](./pics/4.jpg)
 
 下面以iperf_scenario.py为例
